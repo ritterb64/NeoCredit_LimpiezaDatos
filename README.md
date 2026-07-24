@@ -1,4 +1,4 @@
-# NeoCredit_LimpiezaDatos
+
 # 🏦 Limpieza y Calidad de Datos — NeoCredit SA
 
 ## 📌 Descripción del proyecto
